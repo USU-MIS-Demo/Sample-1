@@ -6,3 +6,4 @@ this is a test change
 4
 5
 we are changing an opened repo
+opened the repo in gitKraken
